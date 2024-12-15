@@ -1,6 +1,13 @@
-<h2 align="center" > Albin George C J </h2> 
-<p align="center"> <img src="https://profile-counter.glitch.me/albingcj/count.svg?"/><br>
-[📧 Email ](albingcj@gmail.com)[💼 LinkedIn ](https://linkedin.com/in/albingcj)[😇 Portfolio ](http://albingcj.uk.to)<br> Studying MCA <br> M. Kumarasamy College of Engineering<p align="center"><br><img src="https://github-readme-stats.vercel.app/api?username=albingcj&show_icons=true&theme=radical" alt="Your GitHub Stats"></p>
+<h2 align="center">👋 Hi, I'm Albin George C J 👨‍💻</h2>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/albingcj/count.svg" alt="Profile Views Counter" />
+</p>
+
+<p align="center">
+  📧 <a href="mailto:albingcj@gmail.com">Email</a> | 💼 <a href="https://linkedin.com/in/albingcj">LinkedIn</a> | 😇 <a href="http://albingcj.uk.to">Portfolio</a>
+</p>
+  <br><img src="https://github-readme-stats.vercel.app/api?username=albingcj&show_icons=true&theme=radical" alt="Your GitHub Stats"></p>
 
 ---
 
