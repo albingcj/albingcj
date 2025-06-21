@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  📧 <a href="mailto:albingcj@gmail.com">Email</a> | 💼 <a href="https://linkedin.com/in/albingcj">LinkedIn</a> | 😇 <a href="http://albingcj.uk.to">Portfolio</a>
+  📧 <a href="mailto:albingcj@gmail.com">Email</a> | 💼 <a href="https://linkedin.com/in/albingcj">LinkedIn</a> | 😇 <a href="https://albingcj.com">Portfolio</a>
 </p>
 <!--   <br><img src="https://github-readme-stats.vercel.app/api?username=albingcj&show_icons=true&theme=radical" alt="Your GitHub Stats"></p> -->
 
