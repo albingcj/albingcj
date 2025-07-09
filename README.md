@@ -1,10 +1,6 @@
 <h2 align="center">👋 Hi, I'm Albin George C J 👨‍💻</h2>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/albingcj/count.svg" alt="Profile Views Counter" />
-</p>
-
-<p align="center">
+<p align="center"> 
   📧 <a href="mailto:albingcj@gmail.com">Email</a> |
   💼 <a href="https://linkedin.com/in/albingcj">LinkedIn</a> |
   😇 <a href="https://albingcj.com">Portfolio</a>
@@ -24,6 +20,7 @@
 
 <br/>
 
+<!-- ![](https://komarev.com/ghpvc/?username=albingcj&color=green&style=flat-square&label=PROFILE+VIEWS) -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=albingcj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
